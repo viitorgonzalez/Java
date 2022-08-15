@@ -1,4 +1,4 @@
-package Java;
+package Java.ajuda;
 
 class PassagemReferenciaJava {
     public static int verificarNotas(int[] n, int[] r) {

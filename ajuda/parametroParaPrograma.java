@@ -1,4 +1,4 @@
-package Java;
+package Java.ajuda;
 
 class Parametro {
     public static void main(String[] args) {
