@@ -34,7 +34,7 @@ class HeapSort {
             aplicarHeap(vet, j, 0);
         }
     }
-    
+    //método HeapSort 
     private static void aplicarHeap(int[] vetor, int n, int i){
         int raiz = i;
         int esquerda = 2 * i + 1;
