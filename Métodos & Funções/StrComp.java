@@ -10,5 +10,6 @@ class StrComp{
                 i = 3;
             }
         }
+        return isFim;
     }
 }
